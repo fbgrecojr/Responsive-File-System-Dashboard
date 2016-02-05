@@ -1,0 +1,186 @@
+@font-face {
+    font-family: "winter";
+    src: url(santa.ttf);
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    font-family: "winter";
+    font-size: 1em;
+    overflow: scroll;
+}
+
+*, *:after, *:before {
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+}
+
+*::-webkit-scrollbar {
+    display: none;
+}
+
+html {
+    background: #000 url(snow.jpg) center center fixed no-repeat;
+    -moz-background-size: cover;
+    background-size: cover;
+}
+
+body {
+    margin: 5%;
+}
+
+.col {
+    display: inline-block;
+    background-color: rgba(72,73,92,0.3);
+    padding: 0.5em;
+}
+
+.col:not(:last-child){
+    margin-right: 0.313em;
+}
+
+.homework {
+    height: 100%;
+    width: 100%;
+    overflow-x: auto;
+    overflow-y: hidden;
+    white-space: nowrap;
+}
+
+.wrapper {
+    padding: 0.313em;
+}
+
+.empty {
+    text-align: center;
+    height: 100%;
+}
+
+.leaf {
+    padding: 1em;
+    background: rgba(255,255,255,.6);
+    width: 100%;
+    height: 100%;
+}
+
+.leaf:hover {
+    background: rgba(255,255,255,.8);
+}
+
+.leaf:hover .number {
+    background-color: rgba(102,115,120,1);
+}
+
+.leaf:hover .title {
+    background-color: rgba(200,232,233,1);
+}
+
+.leaf:hover .body {
+    background-color: rgba(239,254,255,1);
+}
+
+.col:hover {
+    background-color: rgba(72,73,92,.5);
+}
+
+.wrapper:hover {
+    padding: 0.125em;
+}
+
+.big-width {
+    height: 100%;
+    width: 61.7977528%;
+}
+
+.small-width {
+    height: 100%;
+    width: 38.2022472%;
+}
+
+.big-height {
+    width: 100%;
+    height: 61.7977528%;
+}
+
+.small-height {
+    width: 100%;
+    height: 38.2022472%;
+}
+
+.right {
+    float: right;
+}
+
+.left {
+    float: left;
+}
+
+.pad {
+    padding: 0.5em;
+}
+
+.top-card {
+    width: 100%;
+    height: 38.2022472%;
+}
+
+.number {
+    background-color: rgba(102,115,120,0.5);
+    height: 100%;
+    width: 38.2022472%;
+    float: left;
+}
+
+.title {
+    background-color: rgba(200,232,233,0.5);
+    height: 100%;
+    width: 61.7977528%;
+    border-width: 2px 0 2px 2px;
+    float: right;
+}
+
+.body {
+    background-color: rgba(239,254,255,0.5);
+    width: 100%;
+    height: 61.7977528%;
+}
+
+@media only all and (max-width: 600px) {
+    
+    .left {
+        float: none;
+    }
+    
+    .right {
+        float: none;
+    }
+    
+    #column-two {
+        display: none;
+    }
+    
+    #blah {
+        display: none;
+    }
+}
+
+@media only all and (max-width: 1024px) {
+    
+    #column-one {
+        width: 100%;
+    }
+    
+    #column-two {
+        display: none;
+    }
+    
+    #four {
+        height: 61.7977528%;
+    }
+    
+    #five {
+        height: 61.7977528%;
+    }
+}
