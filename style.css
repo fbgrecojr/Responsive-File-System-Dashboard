@@ -21,6 +21,11 @@
     display: none;
 }
 
+@viewport {
+    zoom: 1.0;
+    width: extend-to-zoom;
+}
+
 html {
     background: #000 url(snow.jpg) center center fixed no-repeat;
     -moz-background-size: cover;
