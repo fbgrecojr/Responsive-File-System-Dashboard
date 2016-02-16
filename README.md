@@ -3,6 +3,9 @@
 <h3>PURPOSE</h3>
 
 <h3>MOTIVATION</h3>
+<p>
+The motivation for this project is an educational one. It is used to increase the author's experience in modern web design.
+</p>
 
 <h3>DESIGN</h3>
 <p>
