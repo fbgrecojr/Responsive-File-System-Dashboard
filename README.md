@@ -1,4 +1,4 @@
-<h1>Homework Dashboard</h1>
+<h1>Responsive File System Dashboard </h1>
 
 <h3>PURPOSE</h3>
 
