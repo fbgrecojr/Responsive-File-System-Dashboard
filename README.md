@@ -47,21 +47,24 @@ A responsive design is used, here is how the layout changes with size:
   <li>
   DEVELOP
   <ul>
-  <li></li>
+  <li>Populate UI dynamically by reading file system</li>
+  <li>Enhance UI to dynamically create 'n' live tiles (using horizontal scroll)</li>
   </ul>
   </li>
   
   <li>
   ARCHITECT
   <ul>
-  <li></li>
+  <li>Host in Docker container on linux server</li>
+  <li>Use Nginx Docker image to handle load balancing</li>
   </ul>
   </li>
   
   <li>
   DEPLOY
   <ul>
-  <li></li>
+  <li>Use Kubernetes to manage health of containers</li>
+  <li>Continuous deployment</li>
   </ul>
   </li>
 </ul>
