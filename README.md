@@ -13,14 +13,17 @@ A responsive design is used, here is how the layout changes with size:
 <ul>
   <li>
   Width less that 600px
+  <img src="./images/readme/small.png"/>
   </li>
   
   <li>
   Width between 600px and 1024px
+  <img src="./images/readme/medium.png"/>
   </li>
   
   <li>
   Width greater than 1024px
+  <img src="./images/readme/big.png"/>
   </li>
 </ul>
 </p>
