@@ -1,5 +1,9 @@
 <h1>Homework Dashboard</h1>
 
+<h3>PURPOSE</h3>
+
+<h3>MOTIVATION</h3>
+
 <h3>DESIGN</h3>
 <p>
 At a high level, this project will read from a file system and interactively displays it as a web application.
@@ -21,4 +25,21 @@ A responsive design is used, here is how the layout changes with size:
 </ul>
 </p>
 
+<h3>GETTING STARTED</h3>
+
 <h3>TODO</h3>
+<p>
+<ul>
+  <li>
+  DEVELOP
+  </li>
+  
+  <li>
+  ARCHITECT
+  </li>
+  
+  <li>
+  DEPLOY
+  </li>
+</ul>
+</p>
