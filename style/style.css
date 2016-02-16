@@ -1,6 +1,6 @@
 @font-face {
     font-family: "winter";
-    src: url(santa.ttf);
+    src: url(./../fonts/santa.ttf);
 }
 
 * {
@@ -27,7 +27,7 @@
 }
 
 html {
-    background: #000 url(snow.jpg) center center fixed no-repeat;
+    background: #000 url(./../images/background/snow.jpg) center center fixed no-repeat;
     -moz-background-size: cover;
     background-size: cover;
 }
