@@ -1,6 +1,8 @@
 <h1>Responsive File System Dashboard </h1>
 
 <h3>PURPOSE</h3>
+The purpose of this project is to create an interactive, responsive interface by which a server's file system can be accessed over a network.
+An additional purpose of this project is to contribute to the field of UX in the realm of web design. Current applications of this include web apps like Google Drive, One Drive, etc.
 
 <h3>MOTIVATION</h3>
 <p>
