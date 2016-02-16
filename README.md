@@ -47,3 +47,15 @@ A responsive design is used, here is how the layout changes with size:
   </li>
 </ul>
 </p>
+
+<h3>CONTRIBUTIONS</h3>
+<p>
+Contributions are welcome! Authors will be mentioned in the following section.
+</p>
+
+<h3>AUTHORS</h3>
+<p>
+    <ul>
+      <li>Frank B Greco Jr</li>
+    </ul>
+</p>
