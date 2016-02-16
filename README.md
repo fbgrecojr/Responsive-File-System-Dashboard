@@ -6,7 +6,12 @@ An additional purpose of this project is to contribute to the field of UX in the
 
 <h3>MOTIVATION</h3>
 <p>
-The motivation for this project is an educational one. It is used to increase the author's experience in modern web design.
+The motivation for this project is an educational one. It is used to increase the author's experience in the following concepts/technologies
+<ul>
+<li>Modern Web Design</li>
+<li>App Architecture</li>
+<li>Automated Deployment</li>
+</ul>
 </p>
 
 <h3>DESIGN</h3>
@@ -41,14 +46,23 @@ A responsive design is used, here is how the layout changes with size:
 <ul>
   <li>
   DEVELOP
+  <ul>
+  <li></li>
+  </ul>
   </li>
   
   <li>
   ARCHITECT
+  <ul>
+  <li></li>
+  </ul>
   </li>
   
   <li>
   DEPLOY
+  <ul>
+  <li></li>
+  </ul>
   </li>
 </ul>
 </p>
